@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project14-trybeTrivia/static/css/main.67ba8aa2.chunk.css",
+    "main.js": "/project14-trybeTrivia/static/js/main.351ef6e1.chunk.js",
+    "main.js.map": "/project14-trybeTrivia/static/js/main.351ef6e1.chunk.js.map",
+    "runtime-main.js": "/project14-trybeTrivia/static/js/runtime-main.3bb98ae7.js",
+    "runtime-main.js.map": "/project14-trybeTrivia/static/js/runtime-main.3bb98ae7.js.map",
+    "static/js/2.66211431.chunk.js": "/project14-trybeTrivia/static/js/2.66211431.chunk.js",
+    "static/js/2.66211431.chunk.js.map": "/project14-trybeTrivia/static/js/2.66211431.chunk.js.map",
+    "index.html": "/project14-trybeTrivia/index.html",
+    "precache-manifest.8414b639bb620271e562f51dddbda1d8.js": "/project14-trybeTrivia/precache-manifest.8414b639bb620271e562f51dddbda1d8.js",
+    "service-worker.js": "/project14-trybeTrivia/service-worker.js",
+    "static/css/main.67ba8aa2.chunk.css.map": "/project14-trybeTrivia/static/css/main.67ba8aa2.chunk.css.map",
+    "static/js/2.66211431.chunk.js.LICENSE.txt": "/project14-trybeTrivia/static/js/2.66211431.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bb98ae7.js",
+    "static/js/2.66211431.chunk.js",
+    "static/css/main.67ba8aa2.chunk.css",
+    "static/js/main.351ef6e1.chunk.js"
+  ]
+}
